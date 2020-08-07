@@ -2,8 +2,8 @@
 ## Data
 Audio Signals, Images
 ## Algorithms
-Expectation Maximization
-Gaussian Mixture Models
-Kernel PCA
-Source Seperation
-Bayesian Classification
+* Expectation Maximization
+* Gaussian Mixture Models
+* Kernel PCA
+* Source Seperation
+* Bayesian Classification
